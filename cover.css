@@ -1,0 +1,28 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-color: gray;
+}
+#title {
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Source Code Pro', monospace;
+  color:black
+}
+
+#subtitle {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+  padding-left: 70px;
+  opacity: 0.5;
+  color:aqua
+}
+
+#cover_image {
+    width: 250px;
+    height: 160px;
+    padding-top: 50px;
+    display: block;
+    margin: auto;
+}
